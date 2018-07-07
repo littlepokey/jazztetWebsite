@@ -20,6 +20,7 @@ var GigBuilder4 = '</h3></a>';
 var GigBuilder5 = '</div></div>';
  */
 
+
 var GigBuilder1 = '<div class="event row"><div class="col-md-12"><a href="';
 // VWEBSITE goes here
 var GigBuilder2 = '" target="_blank"> <img style="margin: 70px auto 10px auto; width: 250px;" src="';
