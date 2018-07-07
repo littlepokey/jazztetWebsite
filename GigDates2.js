@@ -21,7 +21,8 @@ var GigBuilder5 = '</div></div>';
  */
 // testing Coomit from Command line
 // testing new branch 
-// here isa new edit to the file 
+// here isa new edit to the file
+// here is another edit to this file from the master branch 
 
 
 var GigBuilder1 = '<div class="event row"><div class="col-md-12"><a href="';
